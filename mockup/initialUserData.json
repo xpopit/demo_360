@@ -1,0 +1,75 @@
+{
+  "user": {
+    "id": 18392,
+    "uuid": "103993bbf0z9f",
+    "package": "BASIC",
+    "packageExpiration": "Fri May 07 2021 21:03:04 GMT+0700 (Indochina Time)",
+    "email": "pana@gmail.com"
+  },
+  "channels": [{
+      "id": 100392,
+      "type": "FACEBOOK",
+      "subType": "PAGE",
+      "token": "",
+      "channelName": "เรารักการขาย",
+      "channelId": "1038330193113",
+      "profile": "https://scontent-sin6-3.xx.fbcdn.net/v/t31.18172-1/cp0/p80x80/28514403_1853112328328632_9108114075865761703_o.jpg?_nc_cat=104&ccb=1-3&_nc_sid=1eb0c7&_nc_eui2=AeGmE5qqFRIqrlu4YakE9leIOx6oNIU_vNo7Hqg0hT-82iGwpyUUxFUEkzSnoVfFqro&_nc_ohc=mQatGZJ8rxIAX8m7oBr&_nc_ht=scontent-sin6-3.xx&tp=27&oh=eb8d44a97da1019f2cec45e62024b7f6&oe=60BADBBB",
+      "liveStatus": "LIVE"
+    },
+    {
+      "id": 100394,
+      "type": "FACEBOOK",
+      "subType": "GROUP",
+      "token": "",
+      "channelName": "เสื้อผ้าสวยๆ มือสองแบ่งปันกันใช้",
+      "channelId": "4521029391930",
+      "profile": "https://scontent-sin6-3.xx.fbcdn.net/v/t31.18172-1/cp0/p80x80/28514403_1853112328328632_9108114075865761703_o.jpg?_nc_cat=104&ccb=1-3&_nc_sid=1eb0c7&_nc_eui2=AeGmE5qqFRIqrlu4YakE9leIOx6oNIU_vNo7Hqg0hT-82iGwpyUUxFUEkzSnoVfFqro&_nc_ohc=mQatGZJ8rxIAX8m7oBr&_nc_ht=scontent-sin6-3.xx&tp=27&oh=eb8d44a97da1019f2cec45e62024b7f6&oe=60BADBBB",
+      "liveStatus": "LIVE"
+    }
+  ],
+  "live": {
+    "id": "88032343",
+    "isHost": false,
+    "hostDeviceId": "B0Z10293AC09338",
+    "width": 375,
+    "height": 812,
+    "status": "LIVE",
+    "orientation": "PORTRAIT",
+    "publishedAt": "Fri May 07 2021 21:03:04 GMT+0700 (Indochina Time)",
+    "channels": [
+      100392,
+      100394
+    ],
+    "title": "ขายกระเป๋ามือสองจากโรงงาน",
+    "description": "สาวๆ ห้ามพลาด กระเป๋าสวยๆ ราคาถูกจากโรงงาน\nเกรด AAA+ โละ ล้าง สต๊อก\nรอเอฟได้เลยจ้าาา",
+    "effects": [{
+        "id": 883923,
+        "type": "STICKER",
+        "zIndex": 9,
+        "effectProprety": {
+          "assetUrl": "https://assets.shoplive.co.th/sticker/38203.png",
+          "posX": 45,
+          "posY": 220,
+          "rotate": 0,
+          "width": 40,
+          "height": 80,
+          "scale": 1.2
+        }
+      },
+      {
+        "id": 883924,
+        "type": "SOUND",
+        "zIndex": null,
+        "effectProprety": {
+          "assetUrl": "https://assets.shoplive.co.th/sound/880a9.mp4",
+          "posX": null,
+          "posY": null,
+          "rotate": null,
+          "width": null,
+          "height": null,
+          "loop": true
+        }
+      }
+    ]
+  }
+}

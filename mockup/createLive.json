@@ -1,0 +1,21 @@
+{
+  "user": {
+    "id": 18392,
+    "uuid": "103993bbf0z9f"
+  },
+  "live": {
+    "id": "88032343",
+    "isHost": true,
+    "hostDeviceId": "B0Z10293AC09338"
+  },
+  "realTimeEffects": [
+    {
+      "id": 883924,
+      "status": "PENDING",
+      "type": "SOUND",
+      "effectProprety": {
+        "assetUrl": "https://assets.shoplive.co.th/sound/880a9.mp4",
+      }
+    }
+  ]
+}

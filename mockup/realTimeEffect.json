@@ -1,0 +1,51 @@
+{
+  "user": {
+    "id": 18392,
+    "uuid": "103993bbf0z9f",
+    "userJwt": "FF3029392349z00392493420234"
+  },
+  "live": {
+    "hostDeviceId": "B0Z10293AC09338",
+    "width": 375,
+    "height": 812,
+    "status": "LIVE",
+    "orientation": "PORTRAIT",
+    "publishedAt": "Fri May 07 2021 21:03:04 GMT+0700 (Indochina Time)",
+    "channels": [
+      100392,
+      100394
+    ],
+    "title": "ขายกระเป๋ามือสองจากโรงงาน",
+    "description": "สาวๆ ห้ามพลาด กระเป๋าสวยๆ ราคาถูกจากโรงงาน\nเกรด AAA+ โละ ล้าง สต๊อก\nรอเอฟได้เลยจ้าาา",
+    "effects": [
+      {
+        "id": 883923,
+        "type": "STICKER",
+        "zIndex": 9,
+        "effectProprety": {
+          "assetUrl": "https://assets.shoplive.co.th/sticker/38203.png",
+          "posX": 45,
+          "posY": 220,
+          "rotate": 0,
+          "width": 40,
+          "height": 80,
+          "scale": 1.2
+        }
+      },
+      {
+        "id": 883924,
+        "type": "SOUND",
+        "zIndex": null,
+        "effectProprety": {
+          "assetUrl": "https://assets.shoplive.co.th/sound/880a9.mp4",
+          "posX": null,
+          "posY": null,
+          "rotate": null,
+          "width": null,
+          "height": null,
+          "loop": true
+        }
+      }
+    ]
+  }
+}
